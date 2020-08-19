@@ -176,6 +176,7 @@ export default function App() {
       <button type="button" onClick={lessSwing}>
         {" - "}
       </button>
+      <div id="myContent">Make a beat!</div>
     </React.Fragment>
   );
 }
